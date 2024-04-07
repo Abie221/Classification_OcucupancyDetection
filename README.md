@@ -1,4 +1,4 @@
-# classification through the lens of occupancy detection
+# Classification through the lens of occupancy detection
 Utilizing a dataset that includes environmental parameters like Temperature, Humidity, Light, and CO2 levels within a room. The challenge here is to predict whether a room is occupied (Yes or No), turning raw data into actionable insights. This binary classification problem not only highlights the use of feature predictors in making precise classifications but also underscores the potential for such analysis in energy conservation, security, and smart building management.
 The dataset can be found here: https://archive.ics.uci.edu/dataset/357/occupancy+detection
 
